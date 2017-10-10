@@ -1,0 +1,63 @@
+h1
+{
+  color: blue;
+  text-align: center;
+  font-size: 25px;
+}
+
+h2
+{
+  color: green;
+  font-size: 20px;
+}
+body
+{
+  background-color: lightgrey;
+}
+
+p
+{
+  font-size: 17px;
+}
+
+li
+{
+  font-size: 17px;
+}
+ul.i
+{
+  list-style-image: url('my-bullet.png');
+}
+
+ul.s
+{
+  list-style-type: square;
+}
+
+ol.u
+{
+  list-style-type: upper-roman;
+}
+
+ul.in
+{
+  list-style-position: inside;
+}
+
+ul.out
+{
+  list-style-position: outside;
+}
+
+td.d
+{
+  border-width: 1px;
+  border-style: dotted;
+}
+
+p.r
+{
+  border: 1px solid red;
+  border-radius: 5px;
+
+}
